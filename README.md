@@ -173,10 +173,3 @@ cep('05010000')
   .then(console.log)
 ```
 
-## Como contribuir
-
-Leia nosso guia de contribuição [aqui](CONTRIBUTING.md)
-
-## Contribuidores
-
-<a href="https://github.com/brasilapi/cep-promise/graphs/contributors"><img src="https://contrib.rocks/image?repo=brasilapi/cep-promise" /></a>
