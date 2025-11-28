@@ -180,8 +180,3 @@ Leia nosso guia de contribuição [aqui](CONTRIBUTING.md)
 ## Contribuidores
 
 <a href="https://github.com/brasilapi/cep-promise/graphs/contributors"><img src="https://contrib.rocks/image?repo=brasilapi/cep-promise" /></a>
-
-## Autor
-
-| [<img src="https://avatars0.githubusercontent.com/u/4248081?v=3&s=115"><br><sub>@filipedeschamps</sub>](https://github.com/filipedeschamps) |
-| :---: |
